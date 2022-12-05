@@ -32,6 +32,15 @@ body {
    line-height: 24px;
    margin-left: 0px;
    padding-left: 20px;
+   font-weight: 400;
+   list-style-position: inside;
+}
+.list-white {
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 24px;
+   margin-left: 0px;
+   padding-left: 15px;
    list-style-position: inside;
 }
 .contact-links {
@@ -50,6 +59,74 @@ aside {
    top: 40px;
    background: #1e2939;
 }
-h2 {
-   color: red;
+main {
+   padding: 50px 90px 50px 90px;
+}
+.main-decription {
+   width: 500px;
+   margin-bottom: 40px;
+}
+.job-title {
+   font-weight: 700;
+   font-size: 14px;
+   line-height: 17px;
+}
+.name {
+   font-weight: 700;
+   font-size: 45px;
+   line-height: 55px;
+}
+.description {
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 24px;
+   color: #232323;
+}
+.header-primary {
+   width: 500px;
+   font-weight: 700;
+   font-size: 22px;
+   line-height: 27px;
+   padding-top: 10px;
+}
+.Projects {
+   margin-bottom: 50px;
+}
+.list-primary {
+   font-weight: 700;
+   font-size: 14px;
+   line-height: 24px;
+   padding-left: 12px;
+   list-style-position: inside;
+   margin-bottom: 15px;
+}
+.list-p-item {
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 24px;
+   margin-bottom: 20px;
+   text-decoration: none;
+   color: #130f2e;
+}
+.used-tech {
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 24px;
+   margin-bottom: 20px;
+   text-decoration: none;
+   color: #130f2e;
+}
+.job-name {
+   font-weight: 700;
+   font-size: 16px;
+   line-height: 20px;
+}
+.highlight {
+   color: #066267;
+}
+.job-time {
+   font-weight: 400;
+   font-size: 12px;
+   line-height: 15px;
+   color: #a8a8a8;
 }
