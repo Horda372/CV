@@ -130,3 +130,10 @@ main {
    line-height: 15px;
    color: #a8a8a8;
 }
+.rodo {
+   font-weight: 400;
+   font-size: 12px;
+   line-height: 15px;
+   color: #a8a8a8;
+   margin-top: 400px;
+}
